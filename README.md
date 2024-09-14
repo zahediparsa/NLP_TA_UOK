@@ -1,6 +1,6 @@
 # NLP Course Exercises - University of Kurdistan
 
-This repository contains exercises designed for students in the **Natural Language Processing (NLP)** course at the University of Kurdistan, taught by Dr. Fatemeh Daneshfar.
+This repository contains exercises designed for students in the **Natural Language Processing (NLP)** course at the University of Kurdistan, taught by Dr. Fatemeh Daneshfar. The course took place from **February 2024 to July 2024**.
 
 ### Purpose
 The exercises aim to:
@@ -17,7 +17,10 @@ The exercises aim to:
    - Focuses on the **CBOW model**, a neural network-based approach for word embeddings.
    - Students will implement CBOW using Python and visualize the embeddings.
 
-### Instructions given to students
+### Dataset
+The dataset used in these exercises is from [Kaggle](https://www.kaggle.com/datasets/ffatty/plain-text-wikipedia-simpleenglish), which contains plain text from **Wikipedia Simple English** articles.
+
+### Instructions for students
 - **Programming Language**: Python is preferred for coding solutions.
 - **Dataset**: Use the datasets provided within the instructions of each exercise.
 - **Tools**: Students can use platforms like Google Colab for code execution and visualization.
